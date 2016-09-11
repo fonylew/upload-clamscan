@@ -1,0 +1,28 @@
+{
+  "name": "upload-clamscan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "clamscan": "^0.8.4",
+    "file-type": "^3.8.0",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "npm": "^3.10.7",
+    "read-chunk": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonylew/upload-clamscan.git"
+  },
+  "author": "fonylew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fonylew/upload-clamscan/issues"
+  },
+  "homepage": "https://github.com/fonylew/upload-clamscan#readme"
+}
